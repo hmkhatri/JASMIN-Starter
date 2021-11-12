@@ -8,4 +8,5 @@ Here is an overview of notebooks in this repository.
 | --- | --- |
 | [JASMIN](./Docs/01_Login_JASMIN.ipynb) | Login to JASMIN from university server |
 | [MASS](./Docs/02_MASS_Login_Data_Access.ipynb) | Login to MASS for accessing data on the Met Office archive |
-| [DePreSys4](./Docs/03_DePreSys4_Data.ipynb) | Diagnostics in the multi-ensemble DePreSys4 outputs | 
+| [DePreSys4](./Docs/03_DePreSys4_Data.ipynb) | Diagnostics in the multi-ensemble DePreSys4 outputs |
+| [DePreSys4 on CEDA](./Docs/04_DePreSys4_CEDA.ipynb) | DePreSys4 data available on CEDA server | 
